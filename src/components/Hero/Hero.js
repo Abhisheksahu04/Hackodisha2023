@@ -1,7 +1,6 @@
 import React from "react";
 import "./Hero.css";
 import Image from "next/image";
-import DevfolioButton from "@/components/CommonComponent/DevfolioButton/DevfolioButton";
 import Rain from "./Rain";
 
 function Hero() {
@@ -73,7 +72,7 @@ function Hero() {
             7 - 8 September{" "}
           </h1>
           <div className=" items-center gap-6 flex flex-col mt-4 relative z-[100]">
-            <DevfolioButton />
+            {/* <DevfolioButton /> */}
 
             <div className="md:hidden mb-6">
 
