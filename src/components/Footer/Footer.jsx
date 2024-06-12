@@ -43,7 +43,7 @@ const Footer = () => {
             <div className="grid grid-cols-4 text-white ">
               <div className="flex flex-col gap-8 md:gap-16 col-span-2 ml-24 py-12 lg:text-2xl text-lg leading-loose">
                 <p>
-                  Want to Become a Sponsor <br /> of HackOdisha 3.0?
+                  Want to Become a Sponsor <br /> of HackOdisha 4.0?
                 </p>
               <a target="_blank" rel = "noreferrer" href="mailto:sponsorships@hackodisha.tech" >
                 <button className=" bg-[#CA40CD] rounded-[3.5rem] md:rounded-[3.5625rem] px-4 py-2  md:px-6 md:py-3 lg:px-12 lg:py-6 text-[#FFEAEA] text-sm 2xl:text-lg font-bold leading-[147%] hover:bg-fuchsia-400 ease-in duration-100 text-center w-fit">
@@ -111,7 +111,7 @@ const Footer = () => {
             <hr />
             <h3 className="text-xl mx-auto w-fit py-10 text-white max-w-[90vw] text-center">
 
-              Hackodisha 3.0 2023. Powered by Webwiz, NIT Rourkela.
+              Hackodisha 4.0 2024. Powered by Webwiz, NIT Rourkela.
 
             </h3>
           </div>
@@ -175,7 +175,7 @@ const Footer = () => {
 
             <div className="flex flex-col text-white gap-6 col-span-2 mx-auto w-fit text-center items-center text-sm leading-loose">
               <p>
-                Want to Become a Sponsor <br /> of HackOdisha 3.0?
+                Want to Become a Sponsor <br /> of HackOdisha 4.0?
               </p>
               <a target="_blank" rel = "noreferrer" href="mailto:sponsorships@hackodisha.tech" >
               <button className=" bg-[#CA40CD] mb-4 rounded-[3.5rem] md:rounded-[3.5625rem] px-4 py-2   text-[#FFEAEA] text-[0.75rem] font-bold leading-[147%] hover:bg-fuchsia-400 ease-in duration-100 text-center w-fit">
@@ -189,7 +189,7 @@ const Footer = () => {
             <hr className="px-4" />
             <h3 className="text-xs mx-auto w-fit py-10 text-white max-w-[90vw] text-center">
 
-              Hackodisha 3.0 2023. Powered by Webwiz, NIT Rourkela.
+              Hackodisha 4.0 2024. Powered by Webwiz, NIT Rourkela.
 
             </h3>
           </div>

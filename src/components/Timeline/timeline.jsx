@@ -245,7 +245,7 @@ const Timeline = () => {
           </div>
           <div className="content w-full">
             <span className="contentHead mx-auto">
-              <h3 className="mx-auto mt-5 ">September 9, 2023</h3>
+              <h3 className="mx-auto mt-5 ">September 7, 2023</h3>
             </span>
             <div className="">
               <ul className="contentUl grid grid-cols-2 w-fit justify-center gap-x-0 mb-5 mt-2">
@@ -490,7 +490,7 @@ const Timeline = () => {
           </div>
           <div className="content w-full">
             <span className="contentHead mx-auto">
-              <h3 className="mx-auto mt-5 ">September 10, 2023</h3>
+              <h3 className="mx-auto mt-5 ">September 8, 2023</h3>
             </span>
             <div className="">
               <ul className="contentUl grid grid-cols-2 w-fit justify-center gap-x-0 mb-5 mt-2">

@@ -3,12 +3,12 @@ import "./globals.css";
 import Script from "next/script";
 
 export const metadata = {
-  title: "HackOdisha 3.0",
+  title: "HackOdisha 4.0",
 
   description:
-    "Largest Student hackathon of Odisha | HackOdisha 3.0 - a thrilling 36-hour online hackathon organized by Webwiz, Nit Rourkela— an event dedicated to fostering community collaboration.",
-  image: "https://hackodisha.tech/Images/HO3.svg",
-  url: "https://hackodisha.tech/",
+    "Largest Student hackathon of Odisha | HackOdisha 4.0 - a thrilling 36-hour online hackathon organized by Webwiz, Nit Rourkela— an event dedicated to fostering community collaboration.",
+  image: "https://hackodisha.com/Images/HO3.svg",
+  url: "https://hackodisha.com/",
   keywords: [
     "HackOdisha",
     "HackOdisha 3.0",
