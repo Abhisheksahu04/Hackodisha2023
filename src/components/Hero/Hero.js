@@ -70,7 +70,7 @@ function Hero() {
             priority
           />
           <h1 className="sm:text-5xl text-2xl font-gvonz text-white rounded-2xl border-2 p-2 px-4 ">
-            9 - 10 September{" "}
+            7 - 8 September{" "}
           </h1>
           <div className=" items-center gap-6 flex flex-col mt-4 relative z-[100]">
             <DevfolioButton />
